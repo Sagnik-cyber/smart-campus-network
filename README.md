@@ -237,7 +237,6 @@ smart-campus-network/
 ├── README.md                 # This file
 ├── report.pdf                # Full project report
 ├── configs/                  # Running configs of each device
-│   ├── Edge-R1.txt
 │   ├── Core-SW.txt
 │   ├── SW-CSE.txt
 │   ├── SW-ECE.txt
